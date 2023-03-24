@@ -1,0 +1,33 @@
+html {
+    background-color: orange;
+    padding: 40px 35px;
+}
+
+.contato {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textfield {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 45px;
+    background: rgba(245, 169, 6, 0.589);
+    border-radius: 30px;
+    box-shadow: 0px 25px 50px black;
+}
+
+footer{
+    background-color: rgb(51, 47, 47);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    padding: 40px 35px;
+}
